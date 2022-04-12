@@ -1,0 +1,63 @@
+.todo-list{
+    width: 95%;
+    height: 95%;
+    margin-left: 0.88cm;
+    text-align: center;
+    background-color: rgb(225, 223, 223);
+
+ 
+}
+button{
+    border-radius: 0.3em;
+    
+}
+
+.addTask{
+    margin-top: 1cm;
+}
+
+.editHead{
+    text-align: left;
+    margin-bottom: 1cm;
+    
+}
+.edit{
+    margin-left: 3.5cm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 200px;
+
+}
+span{
+    background-color: white;
+    padding: 16.5px;
+}
+
+.span1{
+    padding-right: 6cm;
+    border-top-left-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;
+}
+.span2{
+    border-top-right-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+}
+#editBtn{
+    margin-left: 1cm;
+}
+
+.taskList{
+    margin-top: 1cm;
+    text-align: left;
+    margin-left: 9.3cm;
+}
+
+
+.table{
+    margin-top: 1cm;
+    
+}
+
